@@ -28,9 +28,9 @@
 ### Training and Training loss
 ![알고리즘19](https://user-images.githubusercontent.com/100768412/173343985-00f53e5f-8c87-46ce-a3f2-538e07de2509.PNG)
 ### Test Accuracy result
-![알고리즘15](https://user-images.githubusercontent.com/100768412/173293089-8c973701-fd65-4c76-b718-cd9334919fca.PNG)
-### Images and corresponding probability that are predicted right
 ![알고리즘20](https://user-images.githubusercontent.com/100768412/173344129-fbeeaf72-d683-443b-b93d-531ae5ccf119.PNG)
+### Images and corresponding probability that are predicted right
+![알고리즘23](https://user-images.githubusercontent.com/100768412/173344573-915bbaa3-d4cd-47e2-8676-b015889382f0.png)
 ![알고리즘21](https://user-images.githubusercontent.com/100768412/173344161-40d20c3a-aea0-4ce0-ace9-94e3771acca0.png)
 ### Images and corresponding probability that are predicted wrong
 ![알고리즘22](https://user-images.githubusercontent.com/100768412/173344184-d9e3f46e-6c9b-448d-aaa2-d9e81b02614b.png)
