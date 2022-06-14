@@ -26,14 +26,14 @@
 ### Model3
 ![알고리즘13](https://user-images.githubusercontent.com/100768412/173293082-d7d6abe1-d24e-4509-b54f-03bb7e2e9e0d.PNG)
 ### Training and Training loss
-![알고리즘19](https://user-images.githubusercontent.com/100768412/173343985-00f53e5f-8c87-46ce-a3f2-538e07de2509.PNG)
+![알고리즘26](https://user-images.githubusercontent.com/100768412/173467868-542151b6-4b02-4da2-9210-cc0a09805458.PNG)
 ### Test Accuracy result
-![알고리즘20](https://user-images.githubusercontent.com/100768412/173344129-fbeeaf72-d683-443b-b93d-531ae5ccf119.PNG)
+![알고리즘27](https://user-images.githubusercontent.com/100768412/173467875-fd837dae-7eea-4ca3-a747-b5f26e74203a.PNG)
 ### Images and corresponding probability that are predicted right
 ![알고리즘23](https://user-images.githubusercontent.com/100768412/173344573-915bbaa3-d4cd-47e2-8676-b015889382f0.png)
-![알고리즘21](https://user-images.githubusercontent.com/100768412/173344161-40d20c3a-aea0-4ce0-ace9-94e3771acca0.png)
+![알고리즘24](https://user-images.githubusercontent.com/100768412/173467902-f27653dd-b952-4eb5-9f5b-39583a730fb2.png)
 ### Images and corresponding probability that are predicted wrong
-![알고리즘22](https://user-images.githubusercontent.com/100768412/173344184-d9e3f46e-6c9b-448d-aaa2-d9e81b02614b.png)
+![알고리즘25](https://user-images.githubusercontent.com/100768412/173467894-5c57e9ce-9437-4da5-acce-0761a8d52767.png)
 
 DONE
 
