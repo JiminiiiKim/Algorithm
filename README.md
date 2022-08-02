@@ -1,4 +1,4 @@
-# HelloWorld
+# Algorithm
 ### Model1
 ![알고리즘1](https://user-images.githubusercontent.com/100768412/173292967-9a1451e4-aa2c-4962-9bb1-16439916cb80.PNG)
 ### Training and Training loss
